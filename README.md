@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samadhi Kariyawasam</h1>
-<h3 align="center">An Undergraduate of Computer Science and Engineering from Sri Lanka who's trying to keep up with new trends</h3>
+<h3 align="center">An Undergraduate of Computer Science and Engineering from Sri Lanka who's trying to keep up with new trends🤖</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samadhi-k&label=Profile%20views&color=0e75b6&style=flat" alt="samadhi-k" /> </p>
 
