@@ -1,5 +1,5 @@
 
- <img src="https://github.com/samadhi-k/samadhi-k/blob/main/bc87e5124f8d2cfe810d403adc96ad01.gif" alt="arduino" width="100%" height="100%"/>
+ <img src="https://github.com/samadhi-k/samadhi-k/blob/main/bc87e5124f8d2cfe810d403adc96ad01.gif" alt="sam" width="100%" height="100%"/>
 <h1 align="center">Hi 👋, I'm Samadhi Kariyawasam</h1>
 <h3 align="center">An Undergraduate of Computer Science and Engineering from Sri Lanka who's trying to keep up with new trends🤖</h3>
 
