@@ -1,4 +1,5 @@
-![This is an image](https://github.com/samadhi-k/samadhi-k/blob/main/bc87e5124f8d2cfe810d403adc96ad01.gif)
+
+ <img src="https://github.com/samadhi-k/samadhi-k/blob/main/bc87e5124f8d2cfe810d403adc96ad01.gif" alt="arduino" width="100%" height="100%"/>
 <h1 align="center">Hi 👋, I'm Samadhi Kariyawasam</h1>
 <h3 align="center">An Undergraduate of Computer Science and Engineering from Sri Lanka who's trying to keep up with new trends🤖</h3>
 
@@ -46,9 +47,9 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samadhi-k&show_icons=true&locale=en&layout=compact" alt="samadhi-k" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samadhi-k&show_icons=true&locale=en&layout=compact&theme=dark" alt="samadhi-k" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samadhi-k&show_icons=true&locale=en" alt="samadhi-k" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samadhi-k&show_icons=true&locale=en&theme=dark" alt="samadhi-k" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samadhi-k&" alt="samadhi-k" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samadhi-k&theme=dark" alt="samadhi-k" /></p>
 
