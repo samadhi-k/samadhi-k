@@ -1,4 +1,4 @@
-![This is an image](https://imgur.com/UH8KV4m)
+![This is an image](https://github.com/samadhi-k/samadhi-k/blob/main/bc87e5124f8d2cfe810d403adc96ad01.gif)
 <h1 align="center">Hi 👋, I'm Samadhi Kariyawasam</h1>
 <h3 align="center">An Undergraduate of Computer Science and Engineering from Sri Lanka who's trying to keep up with new trends🤖</h3>
 
