@@ -60,7 +60,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samadhi-k&show_icons=true&locale=en&layout=compact&theme=dark" alt="samadhi-k" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samadhi-k&show_icons=true&locale=en&theme=dark" alt="samadhi-k" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=samadhi-k&show_icons=true&locale=en&theme=dark" alt="samadhi-k" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samadhi-k&theme=dark" alt="samadhi-k" /></p>
 
