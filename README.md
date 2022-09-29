@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **mailtosamadhi@gmail.com**
 
+ <img src="https://64.media.tumblr.com/5963d93fd69388edf60376bdd61bd305/tumblr_p21h1p2c4d1x0uxufo1_500.gif" align="right" alt="" width="400" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/samadhi-k" target="blank">
@@ -18,6 +20,8 @@
 <a href="https://instagram.com/samadhi_dk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samadhi_dk" height="30" width="40" /></a>
 </p>
 
+
+ 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <p align="left">
