@@ -1,4 +1,4 @@
-<img src="https://github.com/samadhi-k/samadhi-k/blob/main/bc87e5124f8d2cfe810d403adc96ad01.gif" alt="sam" width="100%" height="300"/>
+<!--<img src="https://github.com/samadhi-k/samadhi-k/blob/main/bc87e5124f8d2cfe810d403adc96ad01.gif" alt="sam" width="100%" height="300"/>-->
 <h1 align="center">Hi 👋, I'm Samadhi Kariyawasam</h1>
 <h3 align="center">An Undergraduate of Computer Science and Engineering from Sri Lanka who's trying to keep up with new trends🤖</h3>
 
@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👨‍💻 All of my projects are available at [//TODO](//TODO)
+<!--- 👨‍💻 All of my projects are available at [//TODO](//TODO)-->
 
 - 📫 How to reach me **mailtosamadhi@gmail.com**
 
@@ -45,11 +45,15 @@
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>   
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 </p>
 <p align="left">
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 </p>
 <p align="left">
  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
